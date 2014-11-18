@@ -2,7 +2,9 @@
 ##############################
 # Bayes Rule Demo: mixture with 2 groups
 ##############################
-source('~/Documents/MyProjects/FredScripts/bayesRule.R')
+[Example]: https://github.com/fredcommo/BayesRule/blob/master/example.png
+
+### [Example]
 
 require(rGithubClient)
 git <- getRepo('fredcommo/BayesRule')
