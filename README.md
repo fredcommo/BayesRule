@@ -1,10 +1,10 @@
+[Example]: https://github.com/fredcommo/BayesRule/blob/master/example.png
+### [Example]
+
 ```r
 ##############################
 # Bayes Rule Demo: mixture with 2 groups
 ##############################
-[Example]: https://github.com/fredcommo/BayesRule/blob/master/example.png
-
-### [Example]
 
 require(rGithubClient)
 git <- getRepo('fredcommo/BayesRule')
